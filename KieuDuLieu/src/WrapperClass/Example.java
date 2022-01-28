@@ -41,7 +41,7 @@ public class Example {
 		char charvalue=charobj;  
 		boolean boolvalue=boolobj;  
 		  
-		//Printing primitives  
+		
 		System.out.println("---Printing primitive values---");  
 		System.out.println("byte value: "+bytevalue);  
 		System.out.println("short value: "+shortvalue);  
